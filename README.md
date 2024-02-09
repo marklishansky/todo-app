@@ -1,11 +1,12 @@
 # TODO app
-### для запуска приложения:
+## test task
+### deployment:
 
 ```
 make build && make run
 ```
 
-### при первом запуске:
+### first time run:
 
 ```
 make migrate
